@@ -1,32 +1,31 @@
-<link rel="stylesheet" href="./app.css">
+<div class="header-container" 
+  style="display: flex;
+  justify-content: center;
+  overflow: auto;
+  margin-bottom: 3rem;">
 
-<div class="header-container">
-  <img src="./img/Starry_night.jpg" alt="header" class="header-image"/>
+  <img src="./img/Starry_night.jpg" alt="header" class="header-image" style="border-radius: 24px;"/>
 </div>
 
-# <img src="./img/Pirate_Flag.png" alt="Pirate Flag" class="img_size" /> About Me: <img src="./img/Flying_Saucer.png" alt="Flying Saucer" class="img_size" />
+# <img src="./img/Pirate_Flag.png" alt="Pirate Flag" style= "width: 27px ; height: 27px ;" /> About Me: <img src="./img/Flying_Saucer.png" alt="Flying Saucer" style= "width: 27px ; height: 27px ;" />
 
-<div class="about-me">
+<div style="margin-bottom: 2rem;">
   
-  <img src="./img/Shamrock.webp" alt="Shamrock" class="img_size" /> I am currently learning new things<br>
-  <img src="./img/Folded_Hands_Light_Skin_Tone.png" alt="Folded Hands Light Skin Tone" class="img_size" /> I am currently looking for new team<br>
-  <img src="./img/Skull_and_Crossbones.png" alt="Skull and Crossbones" class="img_size" /> Interesting fact : 1 + "1" = 10 <br />
-  <img src="./img/Hourglass_Not_Done.png" alt="Hourglass Not Done" class="img_size" />How long I coding? 
+  <img src="./img/Shamrock.webp" alt="Shamrock" style= "width: 27px ; height: 27px ;" /> I'm currently learning new things<br>
+  <img src="./img/Folded_Hands_Light_Skin_Tone.png" alt="Folded Hands Light Skin Tone" style= "width: 27px ; height: 27px ;" /> I'm looking for a new team<br>
+  <img src="./img/Skull_and_Crossbones.png" alt="Skull and Crossbones" style= "width: 27px ; height: 27px ;" /> Interesting fact : [] + [] = "" <br />
+  <img src="./img/Hourglass_Not_Done.png" alt="Hourglass Not Done" style= "width: 27px ; height: 27px ;" />How much code have I written ?
   [![wakatime](https://wakatime.com/badge/user/250f79db-0cf4-4f2f-9186-669897a7487e.svg)](https://wakatime.com/@250f79db-0cf4-4f2f-9186-669897a7487e)
 </div>
 
-# <img src="./img/Rocket.webp" alt="Rocket" class="img_size" /> Stay Connect:
+# <img src="./img/Rocket.webp" alt="Rocket" style= "width: 27px ; height: 27px ;" /> Stay Connect:
 
-<div class="stay-connected">
-  
-  [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](http://linkedin.com/in/AliScripter)
-  [![gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:araz.hello@gmail.com)
-  [![twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://x.com/AliScripter?s=09)
-</div>
+| ![](https://github-readme-stats.vercel.app/api?username=AliScripter&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliScripter&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-# <img src="./img/Man_Technologist.webp" alt="Man Technologist" class="img_size" /> Tech Stack:
+# <img src="./img/Man_Technologist.webp" alt="Man Technologist" style= "width: 27px ; height: 27px ;" /> Tech Stack:
 
-<div class="tech-stack">
+<div style="margin-bottom: 2rem;">
   
   [![My Skills](https://skillicons.dev/icons?i=nuxt,vue,pinia,php,mysql,firebase,wordpress,typescript,javascript,&theme=dark)](#)
 
@@ -36,9 +35,9 @@
 
 </div>
 
-# <img src="./img/Bar_Chart.webp" alt="Bar Chart" class="img_size" /> GitHub Stats:
+# <img src="./img/Bar_Chart.webp" alt="Bar Chart" style= "width: 27px ; height: 27px ;" /> GitHub Stats:
 
-<div class="github-stats">
+<div style="margin-bottom: 2rem;display: flex; align-items: start;">
 
 ![](https://github-readme-stats.vercel.app/api?username=AliScripter&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 
@@ -49,6 +48,9 @@
   </div>
 </div>
 
-<div class="video-container">
-  <video id="customVideo" src="./img/file.mp4" autoplay loop muted></video>
+<div class="video-container" style="display: flex; justify-content: center;">
+  <img src="./img/film.gif"
+  style="max-width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;">
 </div>
