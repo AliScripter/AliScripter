@@ -30,17 +30,17 @@
 
 # <img src="./img/Rocket.webp" alt="Rocket" style="width: 27px; height: 27px;" /> Stay Connect:
 
-<div style="display: flex; gap: 10px; align-items: center;margin-bottom: 2rem;">
+<div style="display: flex; gap: 12px; align-items: center;margin-bottom: 2rem;">
 
-  <a href="http://linkedin.com/in/AliScripter">
+  <a href="http://linkedin.com/in/AliScripter" style="text-decoration : none">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn">
   </a>
 
-  <a href="mailto:araz.hello@gmail.com">
+  <a href="mailto:araz.hello@gmail.com" style="text-decoration : none">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail">
   </a>
 
-  <a href="https://x.com/AliScripter?s=09">
+  <a href="https://x.com/AliScripter?s=09" style="text-decoration : none">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter">
   </a>
 
@@ -67,7 +67,7 @@
 
 </div>
 
-<div class="video-container" style="display: flex; justify-content: center;">
+<div class="video-container" style="display: flex; justify-content: center;margin-top:1rem">
   <img src="./img/film.gif"
   style="max-width: 100%;
   height: auto;
