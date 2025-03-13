@@ -18,8 +18,8 @@
   [![wakatime](https://wakatime.com/badge/user/250f79db-0cf4-4f2f-9186-669897a7487e.svg)](https://wakatime.com/@250f79db-0cf4-4f2f-9186-669897a7487e)
 </div>
 
-<div class="stay-connected">
-  <img src="./img/Rocket.webp" alt="Rocket" width="25" height="25" /> Stay Connect:
+ # <img src="./img/Rocket.webp" alt="Rocket" width="25" height="25" /> Stay Connect:
+<div style="margin-bottom: 2rem;">
   
   [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](http://linkedin.com/in/AliScripter)
   [![gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:araz.hello@gmail.com)
