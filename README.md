@@ -18,32 +18,12 @@
   [![wakatime](https://wakatime.com/badge/user/250f79db-0cf4-4f2f-9186-669897a7487e.svg)](https://wakatime.com/@250f79db-0cf4-4f2f-9186-669897a7487e)
 </div>
 
-<!-- # <img src="./img/Rocket.webp" alt="Rocket" style= "width: 27px ; height: 27px ;" /> Stay Connect:
-
-<div style="display:flex; flex-direction : row ;">
-
-[![linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](http://linkedin.com/in/AliScripter)
-[![gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:araz.hello@gmail.com)
-[![twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://x.com/AliScripter?s=09)
-
-</div> -->
-
-# <img src="./img/Rocket.webp" alt="Rocket" style="width: 27px; height: 27px;" /> Stay Connect:
-
-<div style="display: flex; gap: 12px; align-items: center;margin-bottom: 2rem;">
-
-  <a href="http://linkedin.com/in/AliScripter" style="text-decoration : none">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn">
-  </a>
-
-  <a href="mailto:araz.hello@gmail.com" style="text-decoration : none">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail">
-  </a>
-
-  <a href="https://x.com/AliScripter?s=09" style="text-decoration : none">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter">
-  </a>
-
+<div class="stay-connected">
+  <img src="./img/Rocket.webp" alt="Rocket" width="25" height="25" /> Stay Connect:
+  
+  [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](http://linkedin.com/in/AliScripter)
+  [![gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:araz.hello@gmail.com)
+  [![twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://x.com/AliScripter?s=09)
 </div>
 
 # <img src="./img/Man_Technologist.webp" alt="Man Technologist" style= "width: 27px ; height: 27px ;" /> Tech Stack:
