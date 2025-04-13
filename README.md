@@ -23,7 +23,6 @@
   
   [![linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](http://linkedin.com/in/AliScripter)
   [![gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:araz.hello@gmail.com)
-  [![twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://x.com/AliScripter?s=09)
 </div>
 
 # <img src="./img/Man_Technologist.webp" alt="Man Technologist" style= "width: 27px ; height: 27px ;" /> Tech Stack:
